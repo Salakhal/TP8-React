@@ -45,7 +45,7 @@ L'application récupère des données depuis l'API publique [JSONPlaceholder](ht
 
 
   ## 📂 Structure du Projet
-  ```
+```
 tp8-api/
 ├── public/
 │   ├── index.html
@@ -60,6 +60,7 @@ tp8-api/
 │   └── index.js               # Point d'entrée
 ├── package.json
 └── README.md
+
 ```
 
 ## 🚀 Installation
